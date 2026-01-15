@@ -13,4 +13,5 @@
 ## Compile & Run Commands
 ```bash
 javac HelloJava.java
+java HelloJava
 java HelloJava Shubhangi Java Internship
